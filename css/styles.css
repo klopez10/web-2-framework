@@ -1,1 +1,10 @@
 /*My Styles*/
+
+/* Diagnostic Styling
+    * Change Background Color
+    * Outline ELements
+*/
+
+* {
+    outline: 1px dotted black;
+}
